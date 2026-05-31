@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Kanav Gupta</h1>
 
-<!--
-**kanav-gupta264/kanav-gupta264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Developer | Java Enthusiast | DSA Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 B.Tech CSE Student
+
+💻 Learning Java, DSA & Web Development
+
+📚 Currently studying:
+- Operating System
+- Computer Networks
+- DBMS
+- Theory of Computation
+- Compiler Design
+
+🔥 Solving DSA Problems on LeetCode
+
+🌱 Always learning and building projects
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+---
+
+## 🏆 LeetCode
+
+🔗 https://leetcode.com/u/DFIMAAQcfQ/
+
+## 🤝 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/kanav-gupta-b08694308
+
+---
+
+⭐ Welcome to my GitHub Profile!
