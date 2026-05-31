@@ -41,11 +41,15 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanav-gupta264&show_icons=true&theme=tokyonight" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanav-gupta264&layout=compact&theme=tokyonight" />
+## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=kanav-gupta264&theme=tokyonight" />
+![Kanav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanav-gupta264&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanav-gupta264&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kanav-gupta264&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
